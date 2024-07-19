@@ -46,7 +46,7 @@ Your feedback is valuable. If you encounter any issues or have suggestions for i
 
 ## Acknowledgments
 
-- Special thanks to Pranav Sridhar, Rehaan Shaweez and Neelalohit  who have helped to make GraphMate .
+- Special thanks to Pranav Sridhar, Pritham and Neelalohit  who have helped to make GraphMate .
 
 ---
 
