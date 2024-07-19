@@ -1,0 +1,23 @@
+.container {
+    /* background-color: green; */
+}
+
+
+.main_container {
+    align-items: center;
+    background-color: red;
+    height: 45.7rem;
+    margin : 5px;
+    border-radius: 15px;
+    /* margin: auto; */
+}
+
+.image {
+    display : block;
+    margin-left :auto;
+    margin-right:auto;
+    margin-top : auto;
+    margin-bottom : auto;
+    /* width:25% */
+}
+
